@@ -14,10 +14,9 @@
 ### :sunglasses: About
 
 ​	Hi！🙉
+
 ​	🌱 I’m currently learning ...
 
-### 🌱 Connect Me
-![Github](https://img.shields.io/github/followers/dumplingbao?label=Github&style=social)
 
 <!--
 **jiebiantiaoqu/jiebiantiaoqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
